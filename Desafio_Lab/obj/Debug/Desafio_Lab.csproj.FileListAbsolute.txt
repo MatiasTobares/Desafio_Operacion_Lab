@@ -1,0 +1,6 @@
+C:\Users\Roberto\Desktop\Desafio_Lab\Desafio_Lab\bin\Debug\Desafio_Lab.exe.config
+C:\Users\Roberto\Desktop\Desafio_Lab\Desafio_Lab\bin\Debug\Desafio_Lab.exe
+C:\Users\Roberto\Desktop\Desafio_Lab\Desafio_Lab\bin\Debug\Desafio_Lab.pdb
+C:\Users\Roberto\Desktop\Desafio_Lab\Desafio_Lab\obj\Debug\Desafio_Lab.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Desafio_Lab\Desafio_Lab\obj\Debug\Desafio_Lab.exe
+C:\Users\Roberto\Desktop\Desafio_Lab\Desafio_Lab\obj\Debug\Desafio_Lab.pdb
